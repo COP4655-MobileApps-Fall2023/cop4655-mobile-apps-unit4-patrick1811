@@ -1,6 +1,6 @@
 # cop4655-mobile-apps-unit4-patrick1811
 cop4655-mobile-apps-unit4-patrick1811 created by GitHub Classroom
-# Project 4 - *Name of App Here*
+# Project 4 - *Photo Scavanger Hunt*
 
 Submitted by: **Patrick Baker**
 
